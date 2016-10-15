@@ -6,10 +6,10 @@
 name: Rushikesh Ganne
 
 # Short bio or description (displayed in the header)
-description: Master Student at UTA
+description: Master Student at The University of Texas At Arlington
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars3.githubusercontent.com/u/16711385?v=3&u=2eef94f322c37017f5f532b56d6050cddb549247&s=140
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -18,10 +18,10 @@ avatar: https://avatars3.githubusercontent.com/u/16711385?v=3&u=2eef94f322c37017
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: rushig4@gmail.com
+  facebook: rushikesh.ganne
   flickr:
-  github: rushig4
+  github: rushig4.github.io
   instagram: rushikesh_ganne
   linkedin:
   pinterest:
